@@ -1,2 +1,2 @@
-# dsci-320
-DSCI 320 Project
+# DSCI 320 Project
+Authors: Michelle Nguyen, Kelly Zhu, Mariam Virk
